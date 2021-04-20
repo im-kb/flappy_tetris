@@ -23,7 +23,7 @@
 ### You can always open menu in order to start again, pause or go back to start screen.
 ![](https://raw.githubusercontent.com/gabrielajasnosz/flappy-tetris_android-studio/master/flappytetris4.png)
 
-### If you reach the left border of a screen the game will and.
+### If you reach the left border of a screen the game will end.
 ![](https://raw.githubusercontent.com/gabrielajasnosz/flappy-tetris_android-studio/master/flappytetris5.png)
  
 
