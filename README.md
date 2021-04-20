@@ -1,5 +1,5 @@
 # FlappyTetris
-> Fun andorid game mixing Flappy Bird Tetris.
+> Fun andorid game mixing Flappy Bird with Tetris.
 
 ## Requirements
 * Android minSdkVersion: 16
